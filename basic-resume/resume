@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<title>Jamie Oberg Resume</title>
+
+	</head>
+
+
+	<body>
+	<!--I built this!-->
+		<h1>Jamie Oberg</h1>
+		<b>Student Journalist</b>
+		<br>
+		<img src="profile.jpg" width="300" alt="Profile picture of Jamie Oberg">
+
+		<ul>
+			<li><a href="oberg.jam@gmail.com" target="_blank">Email</a></li>
+			<li><a href="https://www.linkedin.com/in/jamie-oberg-8377b7208" target="_blank">LinkedIn</a></li>
+			<li><a href="https://twitter.com/AmiOberg" target="_blank">Twitter</a></li>
+			<li><a href="https://github.com/JamieOberg" target="_blank">Github</a></li>
+		</ul>
+
+		<h2>Experience</h2>
+		
+			<h3>General Assignment Editor</h3>
+			<h4>The Diamondback</h4>
+			<h5>2021 - Present</h5>
+			<ul>
+				<li>Gather timely events and stories relevant to the publication before presenting them as options to freelance reporters at a weekly meeting</li>
+				<li>Thoroughly edit stories submitted to ensure they adhere to journalistic and publication standards</li>
+				<li>Provide support to reporters</li>
+			</ul>
+
+			<h3>Copy Chief</h3>
+			<h4>The Diamondback</h4>
+			<h5>2021 - 2021</h5>
+			<ul>
+				<li>Organize schedules for a team of copy editors</li>
+				<li>Thoroughly fact check and proofread stories for accuracy and AP style</li>
+				<li>Consistently hire and train new copy editors</li>
+			</ul>
+
+			<h3>Student Worker</h3>
+			<h4>Mckeldin Library</h4>
+			<h5>2019 - Present</h5>
+			<ul>
+				<li>Answer any questions posed by patrons and assist students in checking out, returning and finding materials</li>
+				<li>Gather books through an understanding of the library system and layout</li>
+				<li>Greet entering patrons and help them navigate the library</li>
+			</ul>
+
+			<h3>Copy Writer and Public Relations Manager</h3>
+			<h4>HearMeFolks.com</h4>
+			<h5>2020 - 2021</h5>
+			<ul>
+				<li>Edit blog posts about living frugally</li>
+				<li>Communicate with brands and companies to plan sponsored posts</li>
+				<li>Write needed copy for blog posts </li>
+			</ul>
+
+			<h3>Project Manager</h3>
+			<h4>MapsCookingKids.com</h4>
+			<h5>2020 - 2021</h5>
+			<ul>
+				<li>Schedule posts for the blog</li>
+				<li>Brainstorm, assign and edit blog posts</li>
+				<li>Coordinate and organize the the different tasks of a 10 person team</li>
+			</ul>
+
+		<h2>Education</h2>
+			<ul>
+				<li>Bachelor of Arts, Film Studies and Journalism, University of Maryland, 2023</li>
+				<li>Jimenez-Porter Writers' House</li>
+			</ul>
+
+		<h2>Skills</h2>
+			<ul>
+				<li>Customer service/people skills</li>
+				<li>Creative writing</li>
+				<li>Adobe Premiere Pro</li>
+			</ul>
+	</body>
+
+
+
+
+	</html>
