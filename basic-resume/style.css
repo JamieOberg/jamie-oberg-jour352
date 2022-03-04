@@ -69,6 +69,7 @@ ul li{
 
 .menu li {
 	display: inline;
+	text-align: center;
 }
 
 #degrees {
