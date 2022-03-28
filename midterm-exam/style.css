@@ -1,7 +1,10 @@
-#box{ 
+#box { 
 	background-color: red;
-	padding: 20px;
-	border: 2px solid darkred;
+	position: absolute;
+	height: 75%;
+	width: 75%;
+	left: 30%;
+	top: 30%;
 }
 
 h1{
