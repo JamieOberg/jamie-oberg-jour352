@@ -1,1 +1,14 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
+
+h1{
+	font-size: 20px;
+}
+
+h2{
+	font-size: 15px;
+}
+
+p{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
