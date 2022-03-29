@@ -39,3 +39,8 @@ border-left: 4px solid #ccc;
 .image {
 	margin: 10px;
 }
+
+.story{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
