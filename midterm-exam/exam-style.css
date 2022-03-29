@@ -1,10 +1,5 @@
-#box { 
-	background-color: red;
-	position: absolute;
-	height: 200px;
-	width: 200px;
-	margin: 10px;
-	padding: 10px;
+#page-wrapper { 
+	margin: auto;
 }
 
 #byline{
