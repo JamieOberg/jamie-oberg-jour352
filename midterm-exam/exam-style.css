@@ -38,4 +38,7 @@ padding-left: 15px;
 border-left: 4px solid #ccc; 
 } 
 
-
+figure {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
