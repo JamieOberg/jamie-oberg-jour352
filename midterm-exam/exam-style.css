@@ -1,5 +1,5 @@
 #pagewrapper { 
-	align-content: center;
+	margin: auto;
 }
 
 /*the above code centers the page*/
@@ -24,7 +24,7 @@ h2 {
 p {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 12px;
-	text-align: center;
+	margin: auto;
 }
 
 blockquote {
