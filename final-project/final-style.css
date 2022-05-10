@@ -50,30 +50,6 @@ p {
   display:inline-block;
   margin:1em;
   overflow:hidden;
-  blockquote {
-    background-color:#FFFFFF;
-    border: solid 2px #FFFFFF;
-    display: inline-block;
-    margin: 0;
-    padding: 1em;
-    position: relative;
-    &:before {
-      background-color: #FFFFFF;
-      bottom: -10%;
-      content: "";
-      left: 0;
-      position: absolute;
-      right: 0;
-      top: -10%;
-      transform: rotate(-15deg) skew(5deg);
-    }
-    cite {
-      display: block;
-      font-style: italic;
-      text-align: right;
-      &:before {
-        content: "- ";
-      }
     }
     > * {
       position: relative;
