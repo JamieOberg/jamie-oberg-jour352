@@ -47,8 +47,9 @@ p {
 }
 
 blockquote {
+	font-family: 'Courier Prime', monospace;
 	font-size: 30px;
-  color: #f5e1c5;
+	color: #f5e1c5;
 }
 
 .quote {
