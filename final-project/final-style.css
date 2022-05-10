@@ -52,7 +52,7 @@ p {
   overflow:hidden;
   blockquote {
     background-color:$bg;
-    border: solid 2px #757575;
+    border: solid 2px #FFFFFF;
     display: inline-block;
     margin: 0;
     padding: 1em;
