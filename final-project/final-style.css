@@ -47,6 +47,8 @@ p {
 }
 
 .quote {
+  font-size: 30px;
+  color: #f5e1c5;
   display:inline-block;
   margin:1em;
   overflow:hidden;
