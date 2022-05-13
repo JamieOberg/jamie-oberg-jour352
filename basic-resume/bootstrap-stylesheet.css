@@ -6,8 +6,10 @@ h1 {
 }
 
 h2 {
-  text-align: center;
+  text-align: right;
   font-weight: 300;
+  font-family: 'impact';
+  color: #76b0b8;
 }
 
 h3 {
