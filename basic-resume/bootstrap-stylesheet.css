@@ -23,5 +23,13 @@ h3 {
 .col-md-4 {
   text-align: right;
 }
+
+.container-1 {
+  background-image: old-brick-wall-background-creativeye99.jpg;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+
 </style>
 
