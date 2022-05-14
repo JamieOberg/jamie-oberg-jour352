@@ -50,6 +50,26 @@ li {
   margin-right: auto;
 }
 
+.bi {
+  font-size:3em;
+}
+
+.col-md-4 {
+  text-align: center;
+}
+
+.container-1 {
+  background-color: orange;
+}
+
+.container-2 {
+  background-color: #f5e1c5;
+}
+
+.container-3 {
+  background-color: #f5e1c5;
+}
+
 <style>
 .bi {
   font-size:3em;
